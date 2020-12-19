@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Hi there, I'm Sohaib 👋
-
 Website Twitter Follow
 I'm a footballer, Developer, and student!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsohaib&label=Views&color=blue&style=plastic" alt="iamsohaib" /> </p>
