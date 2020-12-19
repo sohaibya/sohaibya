@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-
-**sohaibya/sohaibya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there, I'm Sohaib 👋
 
 Website Twitter Follow
-I'm a Husband, Father, Developer, and Teacher!!
+I'm a footballer, Developer, and student!!
 
     
     🌱 I’m currently learning everything 🤣
@@ -14,24 +11,28 @@ I'm a Husband, Father, Developer, and Teacher!!
     🥅 2020 Goals: Contribute more to Open Source projects
     ⚡ Fun fact: I love to draw and play guitar / drums
 
-Spotify Playing 🎧
 
-Sohaib Asif Spotify Playing
-Connect with me:
+### Spotify Playing 🎧
 
- | Twitter https://twitter.com/sohaibasif2019 | LinkedIn sohaibasiflinkedin@gmail.com | Facebook https://www.facebook.com/sohaib.asif.106
- |  Github https://github.com/sohaibya/sohaibya/edit/main/README.md
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-Languages and Tools:
+### Connect with me:
 
-Visual Studio Code HTML5 CSS3 Sass Bootstrap JavaScript React Gatsby GraphQL Node.js Deno SQL MySQL MongoDB Git GitHub Terminal
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
+### Languages and Tools:
 
-📕 Latest Blog Posts
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+<br />
+<br />
 
-    Microinteractions: Password Validation Animation
-    Notion + YouTube - A Powerful Combination for Productivity
-    
-⚡ Recent GitHub Activity
-⚡ GitHub Stats
+---
