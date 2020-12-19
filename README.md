@@ -27,13 +27,13 @@ I'm a footballer, Developer, and student!!
 - 🔭 I’m currently working on [Microverse](https://www.microverse.org/).
 - 🌱 I’m currently learning more about Bootstrap, Html, REACT.
 - 💬 Ask me about Freelancing or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imsohaib](https://twitter.com/sohaibasif2019) 
+- 📫 How to reach me: [Twitter -sohaib](https://twitter.com/sohaibasif2019) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imsohaib](https://img.shields.io/twitter/follow/imsohaib?style=social)](https://twitter.com/sohaibasif2019)
-[![GitHub iamsohaib](https://img.shields.io/github/followers/iamsohaib?label=follow&style=social)](https://github.com/sohaibya)
-[![Facebook: imsohaib](https://img.shields.io/twitter/follow/imsohaib?style=social)](https://www.facebook.com/sohaib.asif.106)
+[![Twitter: sohaib](https://img.shields.io/twitter/follow/sohaib?style=social)](https://twitter.com/sohaibasif2019)
+[![GitHub sohaib](https://img.shields.io/github/followers/sohaib?label=follow&style=social)](https://github.com/sohaibya)
+[![Facebook: sohaib](https://img.shields.io/twitter/follow/sohaib?style=social)](https://www.facebook.com/sohaib.asif.106)
 
 
 **Languages and Tools:**  
