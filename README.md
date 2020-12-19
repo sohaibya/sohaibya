@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!--
+
 **sohaibya/sohaibya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi there, I'm Jesse - aka codeSTACKr 👋
+Hi there, I'm Sohaib 👋
 
 Website Twitter Follow
 I'm a Husband, Father, Developer, and Teacher!!
 
-    🔭 I just launched my first course: Become A VS Code SuperHero!!
+    
     🌱 I’m currently learning everything 🤣
     👯 I’m looking to collaborate with other content creators
     🥅 2020 Goals: Contribute more to Open Source projects
