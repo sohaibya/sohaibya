@@ -27,9 +27,8 @@ I'm a footballer, Developer, and student!!
 
 
 
-- 🔭 I’m currently working on [Frontier](https://www.microverse.org/).
-- 🌱 I’m currently learning more about BlockChain.
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🔭 I’m currently working on [Microverse](https://www.microverse.org/).
+- 🌱 I’m currently learning more about Bootstrap, Html, REACT.
 - 💬 Ask me about Freelancing or any tech related stuff.
 - 📫 How to reach me: [Twitter - @imsohaib](https://twitter.com/sohaibasif2019) 
 - 😄 Pronouns: He/His
