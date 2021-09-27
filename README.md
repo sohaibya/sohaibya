@@ -29,7 +29,7 @@ I'm a footballer, Developer, and student!!
 - 💬 Ask me about Freelancing or any tech related stuff.
 - 📫 How to reach me: [Twitter -sohaib](https://twitter.com/sohaibasif2019) 
 - 😄 Pronouns: He/His
-- 
+ 
 
 [![Twitter: sohaib](https://img.shields.io/twitter/follow/sohaib?style=social)](https://twitter.com/sohaibasif2019)
 [![GitHub sohaib](https://img.shields.io/github/followers/sohaib?label=follow&style=social)](https://github.com/sohaibya)
@@ -41,11 +41,6 @@ I'm a footballer, Developer, and student!!
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="Ret" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 <br />
 <br />
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
