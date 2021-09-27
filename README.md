@@ -29,7 +29,7 @@ I'm a footballer, Developer, and student!!
 - 💬 Ask me about Freelancing or any tech related stuff.
 - 📫 How to reach me: [Twitter -sohaib](https://twitter.com/sohaibasif2019) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- 
 
 [![Twitter: sohaib](https://img.shields.io/twitter/follow/sohaib?style=social)](https://twitter.com/sohaibasif2019)
 [![GitHub sohaib](https://img.shields.io/github/followers/sohaib?label=follow&style=social)](https://github.com/sohaibya)
